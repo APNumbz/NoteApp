@@ -1,3 +1,5 @@
+// App runs from here
+
 package org.example;
 
 import org.example.lib.Note;
