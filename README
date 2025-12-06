@@ -1,0 +1,11 @@
+This note app is a simple, java based application, designed to create, view, edit, or
+delete text notes that are stored into files. The files are created for you, stored, and can be
+renamed or retrieved after closing the app. You can use the add button to make a new note and
+its file, or select a note with your cursor and either edit the note, rename or delete the file, and
+retrieve previously created files from past sessions by using the refresh button.
+
+In project root (for mac):
+
+cd Desktop/NoteApp-main/NoteApp
+chmod +x gradlew
+./gradlew run
